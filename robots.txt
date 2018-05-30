@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://assetskear.pythonanywhere.com/sitemap.xml.gz
